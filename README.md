@@ -1,4 +1,7 @@
-## Hi there 👋
+BEM VINDO!
+
+[![Snake Matrix](https://raw.githubusercontent.com/miguelaugustor/miguelaugustor/output/github-contribution-grid-snake.svg)](https://miguelaugustor.github.io/Wmiguelaugustor/dist/github-contribution-grid-snake.svg?ts=1699999999
+)
 
 <!--
 **miguelaugustor/miguelaugustor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
